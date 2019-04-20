@@ -7,4 +7,5 @@
  * Author: Michael Castro
  * Author URI: http://www.sybilmedia.com
  */
+defined( 'ABSPATH' ) or die( 'Resource not available' );
 ?>
